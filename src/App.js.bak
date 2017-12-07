@@ -118,8 +118,8 @@ class App extends Component {
   
 				<footer className="footer">
 				<p>Credit for all of the content and images provided in this tutorial goes to the</p> 
-				<p><a target="_blank" href="https://reactjs.org/docs/introducing-jsx.html">React Documentation</a>
-				<p><a target="_blank" href="https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3">Free Code Camp React Tutorial</a></p>
+				<p><a target="_blank" href="https://reactjs.org/docs/introducing-jsx.html">React Documentation</a> &
+				<a target="_blank" href="https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3">Free Code Camp React Tutorial</a></p>
 				<p>Check them both out for a deeper dive into the React Framework.</p>
 				</footer>
 		</div>

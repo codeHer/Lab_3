@@ -38,8 +38,8 @@ display: block;
 	left: 0;
 	right: 0;
 	bottom: 0;
-	padding: 30px;
-	padding-bottom: ;
+	padding: 80px;
+	padding-top: 10px ;
 	margin: auto;
 	height: ;
 	
@@ -48,6 +48,7 @@ display: block;
 img{
 	display: inline;
 	height: 150px;
+	verticle-align: middle;
 	border-radius: 25px;
 }
 a{

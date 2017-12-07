@@ -26,7 +26,7 @@ class App extends Component {
 				<ul>
 					<li>Components</li>
 					<li>JSX</li>
-					<li>Props&State</li>
+					<li>Props & State</li>
 					<li>The Component API</li>
 					<li>Component Types</li>
 				</ul>

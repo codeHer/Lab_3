@@ -1,7 +1,7 @@
 /*App.css*/
 .App {
   margin: 0 auto;
-  padding-top: ;
+  padding: ;
   max-width: calculate(100px -100vh);
   width: 100%;
 }
@@ -30,6 +30,7 @@ display: block;
   font-size: large;
 }
 .App-container {
+	
 	text-align: center;
 }
 .Tutorial-wrapper{
@@ -37,8 +38,8 @@ display: block;
 	left: 0;
 	right: 0;
 	bottom: 0;
-	padding: 30px;
-	padding-bottom: ;
+	padding: 80px;
+	padding-top: 20px ;
 	margin: auto;
 	height: ;
 	
@@ -47,6 +48,7 @@ display: block;
 img{
 	display: inline;
 	height: 150px;
+	verticle-align: middle;
 	border-radius: 25px;
 }
 a{
