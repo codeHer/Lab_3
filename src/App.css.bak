@@ -1,0 +1,71 @@
+/*App.css*/
+.App {
+  margin: 0 auto;
+  padding-top: ;
+  max-width: calculate(100px -100vh);
+  width: 100%;
+}
+.App h1 {
+  margin-top: 0;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+  text-align: center;
+}
+.App-header {
+  background-color: #222;
+  height: calculate(100px -100vh);
+display: block;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.App-container {
+	text-align: center;
+}
+.Tutorial-wrapper{
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 30px;
+	padding-bottom: ;
+	margin: auto;
+	height: ;
+	
+}
+
+img{
+	display: inline;
+	height: 150px;
+	border-radius: 25px;
+}
+a{
+	padding: .5rem;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.footer {
+	display: block;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  height: 100%;
+  width: 100%;
+	background-color: #222;
+	color: white;
+	text-align: center;
+}
